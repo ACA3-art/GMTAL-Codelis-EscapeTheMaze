@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Duvar
+  - toplantiOdasi
+  - resimOdasi
+  - depoOdasi
+  - LaboratuvarOdasi
+  - "b\xFCy\xFCOdasi"
+  - kutuphaneOdasi
+  - elektrikOdasi
+  - sandikOdasi
+  - yemekOdasi
+  - mahzenOdasi
+  - teleport
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Player
+  - Vision
+  - Darkness
+  - zeminler
+  - teleport
+  - finish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3516311945
+    locked: 0
