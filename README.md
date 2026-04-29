@@ -15,7 +15,7 @@ Projemiz, görev dağılımı netleştirilmiş profesyonel bir ekip yapısıyla 
 
 ---
 
-## 🚀 Proje Genel Bakış (X GAMES)
+## 🚀 Proje Genel Bakış (GMTAL GAMES)
 * **Platform:** Windows (PC)
 * **Tür:** Online / Rekabetçi / Top-Down Action
 * **Hedef Kitle:** Hızlı tempo seven, rekabetçi oyunlara ilgi duyan genç oyuncu kitlesi.
