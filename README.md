@@ -11,7 +11,7 @@ Projemiz, görev dağılımı netleştirilmiş profesyonel bir ekip yapısıyla 
 * **Ceyhun Kaan Aydın** | *Head of Design* (Karakter Tasarımı, UI/UX & Görsel Kimlik)
 * **Funda Deniz** | *Video & Sound Designer* (Sinematik Düzenleme & Ses Mühendisliği)
 * **Hiranur Tozar** | *Game Designer* (Bölüm Tasarımı & Mekanik Dengelenmesi)
-* **Sedanur Türkmen** | *Sound & Video Designer* (Ambiyans Sesleri & Video Prodüksiyon)
+* **Sedanur Türkmen** | *Sound & Video Designer & Social Media Manager* (Ses Efektleri, Video Prodüksiyon & Sosyal Medya Yönetimi)
 
 ---
 
