@@ -47,3 +47,6 @@ Projemiz, görev dağılımı netleştirilmiş profesyonel bir ekip yapısıyla 
 
 * **Okul:** Gebze Mesleki ve Teknik Anadolu Lisesi (GMTAL)
 * **E-posta:** [codelisstudio@gmail.com]
+* * **Web Sitemiz**[https://codelis.com.tr]
+* **👉64-bit Oyun Linki**[https://codelis.itch.io/escapethemaze64bit]
+* **👉32-bit Oyun Linki**[https://codelis.itch.io/escapethemaze]
